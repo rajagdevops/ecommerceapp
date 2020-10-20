@@ -1,3 +1,3 @@
 testing jenkins
 just see
-scm testing
+scm testng
